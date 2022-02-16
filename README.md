@@ -5,5 +5,5 @@ It uses the json and requests libraries specifically.
 You can install the requirements by calling the setup command on the command line: 
     python setup.py install
 
-If requests is already installed it should run by just executing:
+If requests is already installed it should run by switching to the venv director and executing:
     python swapi.py 
